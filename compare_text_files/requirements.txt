@@ -13,3 +13,4 @@ pycparser==2.21
 sqlparse==0.4.2
 tzdata==2021.5
 Wand==0.6.7
+whitenoise==6.0.0
