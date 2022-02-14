@@ -1,0 +1,15 @@
+asgiref==3.5.0
+backports.zoneinfo==0.2.1
+cffi==1.15.0
+chardet==4.0.0
+cryptography==36.0.1
+Django==4.0.2
+docx2txt==0.8
+gunicorn==20.1.0
+pdfminer.six==20211012
+pdfplumber==0.6.0
+Pillow==9.0.1
+pycparser==2.21
+sqlparse==0.4.2
+tzdata==2021.5
+Wand==0.6.7
