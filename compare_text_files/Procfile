@@ -1,1 +1,1 @@
-web: gunicorn app.wsgi:application --log-file - 
+web: gunicorn compare_text_files.wsgi:application --log-file - 
